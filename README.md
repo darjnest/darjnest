@@ -9,7 +9,7 @@
 
 - 📫 Cómo contactarme **crasd15@live.com**
 
-- Mi experencia [Programador Junior en Kotlin , Jetpack compose](Programador Junior en Kotlin , Jetpack compose)
+- Mi experencia [Programador Junior en Kotlin , Jetpack compose](Programador Junior en Kotlin , Jetpack compose),Desarrollador Full Stack Junior Python ( en estudio ) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
