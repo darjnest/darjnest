@@ -3,7 +3,8 @@
 
 - 🔭 Actualmente estoy programando en: **Didacticamente**
 
-- Actualmente estoy aprendiendo **- Nuevas tecnologías de desarrollo web y móvil. - Herramientas y frameworks modernos como React, Node.js y Jetpack Compose.**
+- Actualmente estoy aprendiendo **- Nuevas tecnologías de desarrollo web y móvil.
+ - Herramientas y frameworks modernos como React, Node.js y Jetpack Compose.**
 
 - Preguntame sobre : **Jetpack Compose,C#,java(poco),python(actualmente aprendiendo)**
 
