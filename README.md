@@ -4,9 +4,9 @@
 - 🔭 Actualmente estoy programando en: **Didacticamente**
 
 - Actualmente estoy aprendiendo **- Nuevas tecnologías de desarrollo web y móvil.
- - Herramientas y frameworks modernos como React, Node.js y Jetpack Compose.**
+ - Herramientas y frameworks modernos como React, Node.js,Django y Jetpack Compose.**
 
-- Preguntame sobre : **Jetpack Compose,C#,java(poco),python(actualmente aprendiendo)**
+- Preguntame sobre : **Jetpack Compose,C#,java,python(actualmente aprendiendo)**
 
 - 📫 Cómo contactarme **crasd15@live.com**
 
