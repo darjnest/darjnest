@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Carlos Silva Diaz</h1>
 <h3 align="center">Soy un apasionado por la programación desde Chile, actualmente estoy estudiando nuevas tecnologías. Me encanta aprender y explorar nuevas herramientas y lenguajes de programación.</h3>
 
-- 🔭 Actualmente estoy programando en: **Didacticamente**
+- 🔭 Actualmente estoy programando en: Kotlin , Jetpack compose y python 
 
 - Actualmente estoy aprendiendo **- Nuevas tecnologías de desarrollo web y móvil.
  - Herramientas y frameworks modernos como React, Node.js,Django y Jetpack Compose.**
