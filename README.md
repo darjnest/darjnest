@@ -6,7 +6,7 @@
 - Actualmente estoy aprendiendo **- Nuevas tecnologías de desarrollo web y móvil.
  - Herramientas y frameworks modernos como React, Node.js,Django y Jetpack Compose.**
 
-- Preguntame sobre : **Jetpack Compose,C#,java,python(actualmente aprendiendo)**
+- Preguntame sobre : **Kotlin,C#,java,python(actualmente aprendiendo)**
 
 - 📫 Cómo contactarme **crasd15@live.com**
 
