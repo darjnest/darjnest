@@ -6,11 +6,11 @@
 - Actualmente estoy aprendiendo **- Nuevas tecnologías de desarrollo web y móvil.
  - Herramientas y frameworks modernos como React, Node.js,Django y Jetpack Compose.**
 
-- Preguntame sobre : **Kotlin,C#,java,python(actualmente aprendiendo)**
+- Preguntame sobre : **Kotlin,C#,java,python
 
 - 📫 Cómo contactarme **crasd15@live.com**
 
-- Mi experencia [Programador Junior en Kotlin , Jetpack compose](Programador Junior en Kotlin , Jetpack compose),Desarrollador Full Stack Junior Python ( en estudio ) 
+- Mi experencia [Programador Junior en Kotlin , Jetpack compose](Programador Junior en Kotlin , Jetpack compose),Desarrollador Full Stack Junior Python 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
